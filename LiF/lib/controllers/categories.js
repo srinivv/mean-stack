@@ -71,7 +71,6 @@ var  categoryModel = {
 			});
 	    },
 	    /***
-	     * @author krenkara
 	     * Find category Id 
 	     */
 	    getCategoryById: function(req,res)

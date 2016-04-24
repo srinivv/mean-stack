@@ -23,13 +23,13 @@
 9 verbose parsed url   path: 'mangoose',
 9 verbose parsed url   href: 'mangoose' }
 10 silly lockFile 2a58770c-mangoose mangoose
-11 verbose lock mangoose C:\Users\krenkara\AppData\Roaming\npm-cache\2a58770c-mangoose.lock
+11 verbose lock mangoose C:\Users\srini\AppData\Roaming\npm-cache\2a58770c-mangoose.lock
 12 silly lockFile 2a58770c-mangoose mangoose
 13 silly lockFile 2a58770c-mangoose mangoose
 14 verbose addNamed [ 'mangoose', '' ]
 15 verbose addNamed [ null, '*' ]
 16 silly lockFile 68faba89-mangoose mangoose@
-17 verbose lock mangoose@ C:\Users\krenkara\AppData\Roaming\npm-cache\68faba89-mangoose.lock
+17 verbose lock mangoose@ C:\Users\srini\AppData\Roaming\npm-cache\68faba89-mangoose.lock
 18 silly addNameRange { name: 'mangoose', range: '*', hasData: false }
 19 verbose request where is /mangoose
 20 verbose request registry https://registry.npmjs.org/
@@ -82,7 +82,7 @@
 33 error 404 tarball, folder, or http url, or git url.
 34 error System Windows_NT 6.1.7601
 35 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "mangoose"
-36 error cwd C:\Users\krenkara\workspace\LiF1
+36 error cwd C:\Users\srini\workspace\LiF1
 37 error node -v v0.10.32
 38 error npm -v 1.4.28
 39 error code E404
